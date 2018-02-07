@@ -1,4 +1,4 @@
-# 
+# email: raymond dot rono at gmail dot com 
 This program will read a configuration file which contains parameters of information which can be used to preprocess data in a given input file. The configuration file is in JSON format. The input data to be processed can be in comma delimited text file (csv), tab delimited text file(txt) or a json file. The program reads the data and generates meta data information about the data. It proceeds with the processing before writing the preprocessed data into the output file defined in the configuration file. The output can be in any format whether csv, txt or json.
 
 The observation after running the program few times is that on average it took approx. 180 microseconds to pre-process 24 records and get 9 clean records. This suggests that on average it will take 7.5 microseconds per record with 17 columns. 1 million records will therefore take approximately 7.5 * 1M = 7500000 microseconds equivalent to 7.5 Seconds! Whether this is efficient will depend on coding the same in another language and comparing the results. However there is a lot of room to improve the efficiency of the code. Other observations include:
