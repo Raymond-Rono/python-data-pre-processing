@@ -1,4 +1,4 @@
-# @Author: AUTHOR NAME <Raymond C. Rono><raymond.rono@gmail.com>
+# @Author: AUTHOR NAME <Raymond C. Rono><raymond dot rono at gmail dot com>
 # @Date:   2017-12-31
 # @Filename: generatemetadata.py
 # DISTRIBUTION NOT ALLOWED
