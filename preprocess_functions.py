@@ -1,5 +1,5 @@
-# @Author: AUTHOR NAME <Raymond C. Rono><raymond.rono@gmail.com>
-# @Date:   2017-12-31
+# @Author: AUTHOR NAME <Raymond C. Rono><raymond dot rono at gmail dot com>
+# @Date:   2017-12-31raymond.rono@gmail.com
 # @Filename: preprocess_functions.py
 # DISTRIBUTION NOT ALLOWED
 
