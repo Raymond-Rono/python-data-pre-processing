@@ -1,0 +1,102 @@
+{
+    "filename": "sample-bank-data.csv", 
+    "format": {
+        "type": "tabular", 
+        "sep": ","
+    }, 
+    "numentries": 24, 
+    "numfields": 17, 
+    "fields": [
+        {
+            "name": "id", 
+            "type": "numeric", 
+            "min": "1", 
+            "max": "9"
+        }, 
+        {
+            "name": "first_name", 
+            "type": "string", 
+            "uniquevals": 24
+        }, 
+        {
+            "name": "last_name", 
+            "type": "string", 
+            "uniquevals": 24
+        }, 
+        {
+            "name": "email", 
+            "type": "string", 
+            "uniquevals": 24
+        }, 
+        {
+            "name": "age", 
+            "type": "numeric", 
+            "min": "22", 
+            "max": "66"
+        }, 
+        {
+            "name": "gender", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "ip_address", 
+            "type": "numeric", 
+            "min": "109.71.105.222", 
+            "max": "94.107.168.176"
+        }, 
+        {
+            "name": "Company", 
+            "type": "string", 
+            "uniquevals": 24
+        }, 
+        {
+            "name": "income", 
+            "type": "numeric", 
+            "min": "125454", 
+            "max": "59803.9"
+        }, 
+        {
+            "name": "married", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "children", 
+            "type": "numeric", 
+            "min": "0", 
+            "max": "3"
+        }, 
+        {
+            "name": "car", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "save_act", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "current_act", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "mortgage", 
+            "type": "string", 
+            "uniquevals": 3
+        }, 
+        {
+            "name": "pep", 
+            "type": "string", 
+            "uniquevals": 2
+        }, 
+        {
+            "name": "debitcard", 
+            "type": "numeric", 
+            "min": "1182387522195850", 
+            "max": "9691928949545340"
+        }
+    ]
+}
